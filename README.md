@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=gunwoo`s%20github&fontColor=191970&fontSize=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=gunwoo`s%20github&fontColor=BA55D3&fontSize=40" width="100%"/>
 
 
 
