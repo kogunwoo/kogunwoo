@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Gunwoo`s%20Github&fontColor=FFFFF0&fontSize=30" width="100%"/>
-
+![codeja](https://github.com/user-attachments/assets/fa3641d6-1661-4f17-8287-5dc91fd4cc29)
 **🛠️ Infra and Tools**
 
 
