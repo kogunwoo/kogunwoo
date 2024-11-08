@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Welcome%20to%20Gunwoo's%20GitHub!&fontColor=FFFFF0&fontSize=30" width="100%"/>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/a62a544a-5e69-49ef-ab1b-90a0d08f2734" width="200px"/>
 </div>
 
 ---
