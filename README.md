@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 
----
+
 
 ## 🛠️ Infra and Tools
 <div align="center">
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
----
+
 
 ## 🦾 Skills
 
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
